@@ -1,0 +1,179 @@
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Arch_2.1_3\DAL\obj\Debug\DAL.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\DAL.dll.config
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\DAL.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\DAL.pdb
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.dll
+F:\AНАУ\2 курс Я\2 семестр\Архитектура и проектирование\3\Arch_2.1_3\DAL\obj\Debug\DAL.pdb
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\DAL.dll.config
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\DAL.dll
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\DAL.pdb
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\EntityFramework.dll
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\EntityFramework.xml
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\obj\Debug\DAL.dll
+D:\Ychoba\Арх і проект\Мод2\Лаб2\DAL\obj\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\Ninject.dll
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\bin\Debug\Ninject.xml
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Арх_3_2 модуль\Arch_2.3_4\DAL\obj\Debug\DAL.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\DAL.dll.config
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\DAL.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\DAL.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Ninject.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Ninject.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\obj\Debug\DAL.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\obj\Debug\DAL.pdb
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\netstandard.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.AppContext.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Collections.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Console.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Globalization.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Linq.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Reflection.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Buffers.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Memory.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Buffers.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Memory.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\komar\Desktop\Учёба\Архивы\2 курс 3 варіант\2 семестр\Архітектура та проектування ПЗ\Arch_2.4_3\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
